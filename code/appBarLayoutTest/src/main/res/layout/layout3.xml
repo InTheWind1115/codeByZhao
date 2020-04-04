@@ -7,7 +7,7 @@
     <androidx.core.widget.NestedScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:fillViewport="true">
+        android:fillViewport="true"> //使得子布局高度和scrollview一样，而当子布局高度超过scrollview的高度时，这个属性就没有意义了
 
         <LinearLayout
             android:layout_width="match_parent"
