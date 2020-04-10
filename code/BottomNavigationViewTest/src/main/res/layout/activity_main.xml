@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
+    tools:context=".MainActivity" //tools:context=".MainActivity"这一句不会被打包进APK， --> 理解：相当于这句被注释了，编译后不起任何作用. 
     android:orientation="vertical">
 
 
