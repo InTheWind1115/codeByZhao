@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\test\\turntest1\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "E:\\test\\turntest1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "1,1",
+                        "startOffsets": "106,52",
+                        "endColumns": "42,53",
+                        "endOffsets": "147,104"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,101",
+                        "endColumns": "45,56",
+                        "endOffsets": "96,153"
+                    }
+                }
+            ]
+        }
+    ]
+}
