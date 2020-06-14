@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimplePreferenceDemo</string>
+    <string name="hello">Hello World, SimplePreferenceDemoActivity!</string>
+</resources>
